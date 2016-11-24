@@ -1,0 +1,14 @@
+{
+  "name": "nodemcsw",
+  "version": "0.0.1",
+  "description": "This is a minecraft server wrapper written in nodejs that provides access to a server's inner workings whilst running, via a http interface.",
+  "homepage": "http://github.com/xepps/nodemcsw",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jasmine": "^1.0.3",
+    "grunt-eslint": "^19.0.0"
+  },
+  "repository": "http://github.com/xepps/nodemcsw"
+}
